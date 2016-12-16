@@ -1,4 +1,4 @@
-CXX = g++-5
+CXX = g++-5 -Wall
 CXXFLAGS = -std=c++14 -g
 EXEC = watan
 OBJECTS = main.o Board.o Die.o FileIO.o HexagonBoard.o Player.o Tile.o UserIO.o PlayerManager.o Subject.o Goose.o
