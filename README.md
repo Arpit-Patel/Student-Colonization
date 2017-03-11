@@ -14,3 +14,7 @@ A strong set of software methodologies and OOP consepts were used to ensure the 
          - input make clean to remove game files.
 
 ![screen shot 2016-12-16 at 3 45 51 pm](https://cloud.githubusercontent.com/assets/16431807/21278023/fed3f3dc-c3a6-11e6-9066-f7b772b11d48.png)
+
+**UML**
+
+[uml 2.pdf](https://github.com/Arpit-Patel/Student-Colonization/files/836165/uml.2.pdf)
