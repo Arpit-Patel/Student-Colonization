@@ -17,4 +17,4 @@ A strong set of software methodologies and OOP consepts were used to ensure the 
 
 **UML**
 
-[uml 2.pdf](https://github.com/Arpit-Patel/Student-Colonization/files/836165/uml.2.pdf)
+![screen shot 2017-03-11 at 5 20 57 pm](https://cloud.githubusercontent.com/assets/16431807/23827339/7fae944c-067f-11e7-930b-7240664b145a.png)
